@@ -1,0 +1,11 @@
+{
+  "name": "twitter-bot-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wguilherme/twitter-bot-nodejs.git",
+  "author": "W. Guilherme <ravok123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
